@@ -7,5 +7,5 @@ Skills: ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-
 - 🔭 I’m currently working on becoming an extremely good frontend developer
 
 
-[personal website](https://personal-website-alpha-azure.vercel.app/) [twitter](https://twitter.com/jakushaaa)
+[website](https://personal-website-alpha-azure.vercel.app/) [twitter](https://twitter.com/jakushaaa)
 
