@@ -6,5 +6,9 @@ Skills: ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-
 
 - Available for a fulltime job 💼
 
-[website](https://personal-website-alpha-azure.vercel.app/) [twitter](https://twitter.com/jakushaaa)
+- Email: aaronebube123@gmail.com
+
+- [website](https://personal-website-alpha-azure.vercel.app/)
+
+- [twitter](https://twitter.com/jakushaaa)
 
