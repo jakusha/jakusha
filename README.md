@@ -8,5 +8,5 @@ Skills: ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-
 
 - [website](https://ebube-aaron.vercel.app/)
 
-- [twitter](https://twitter.com/jakushaaa)
+- [twitter](https://twitter.com/_jakusha)
 
