@@ -1,12 +1,14 @@
+
 Hi there 👋
+
 ⚡ About Me: My name is Ebube and I am a Software Developer, involved in building web apps and api. I currently work with JavaScript, Node.js, React etc.
 
-🔭 I’m currently working on personal side projects
-🌱 I’m currently learning how to become a bad-ass developer
-👯 I’m looking to collaborate on open source  projects
-🤔 I’m looking for help with getting a Software Developer role
-📫 How to reach me: aaronebube123@gmail.com
-⚡ Fun fact: My first name is a palindrome.
+ - 🔭 I’m currently working on personal side projects.
+ - 🌱 I’m currently on the journey, to become a bad-ass developer
+- 👯 I’m looking to collaborate on open source  projects.
+- 🤔 I’m looking for help with getting a Software Developer role.
+- 📫 How to reach me: aaronebube123@gmail.com .
+- ⚡ Fun fact: My first name is a palindrome.
 
 
 <!-- chuksgpfr/README.md
