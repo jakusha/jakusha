@@ -1,5 +1,5 @@
 
-Hi there 👋
+**Hi there** **👋**
 
 ⚡ About Me: My name is Ebube and I am a Software Developer, involved in building web apps and api. I currently work with JavaScript, Node.js, React etc.
 
